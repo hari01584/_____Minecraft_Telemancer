@@ -5,7 +5,7 @@ nX = x/8
 nZ = Z/8
 
 print("[USELESS]Expected nether(initial) X:",nX)
-print("[USELESS]Expected nether Z(initial):",nZ)
+print("[USELESS]Expected nether(initial) Z:",nZ)
 
 
 print("Final Nether X:",x)

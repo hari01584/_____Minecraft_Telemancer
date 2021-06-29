@@ -28,7 +28,7 @@ Nether equivalent overworld X: 8000
 Nether equivalent overworld Z: 8000
 ```
 
-## Caution
+## A World Of Caution
 ```
 CAUTION: Long distance travel using enderpearl nether trick  has one fatal flaw:
 It doesn't guarantee if you will be teleported to a safe block, Ie you might outright

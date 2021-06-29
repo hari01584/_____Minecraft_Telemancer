@@ -21,7 +21,7 @@ Just sample input+output!!
 Enter overworld X:1000
 Enter overworld Z:1000
 [USELESS]Expected nether(initial) X: 125.0
-[USELESS]Expected nether Z(initial): 125.0
+[USELESS]Expected nether(initial) Z: 125.0
 Final Nether X: 1000
 Final Nether Z: 1000
 Nether equivalent overworld X: 8000

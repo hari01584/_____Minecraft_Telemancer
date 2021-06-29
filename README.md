@@ -28,11 +28,15 @@ Nether equivalent overworld X: 8000
 Nether equivalent overworld Z: 8000
 ```
 
-## A Word Of Caution
+## Caution
 ```
-CAUTION: Long distance travel using enderpearl nether trick  has one fatal flaw: It doesn't guarantee if you will be teleported to a safe block, Ie you might outright tp into lava and lose all your gears, So always have fire resistance buff to save yourself!
+CAUTION: Long distance travel using enderpearl nether trick  has one fatal flaw:
+It doesn't guarantee if you will be teleported to a safe block, Ie you might outright
+tp into lava and lose all your gears, So always have fire resistance buff to save 
+yourself!
 
-ALSO You might as well drop to thousand blocks after tp, so better take totems while proceeding, Using this trick without totem is suicidal! YOU HAVE BEEN WARNED!!
+ALSO You might as well drop to thousand blocks after tp, so better take totems while
+proceeding, Using this trick without totem is suicidal! YOU HAVE BEEN WARNED!!
 
 This is very risky mode of travel, but with sufficient preparation, It's quite good :)!!
 ```

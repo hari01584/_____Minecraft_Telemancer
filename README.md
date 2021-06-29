@@ -6,7 +6,7 @@ Detailed posts and mechanism:
  2. https://www.minecraftforum.net/forums/minecraft-java-edition/survival-mode/285261-long-distance-ender-pearl-teleportation-tutorial
 
 ## Script
-Script: **overworld_to_nether.py**
+> Script: **overworld_to_nether.py**
 ```
 1. Just open the python script and enter your current X and Z coords.
 2. After inputting coords, throw ender pearl in the sky and quickly teleport via nether portal!
@@ -15,8 +15,8 @@ Script: **overworld_to_nether.py**
 ```
 
 ## Output
-> Just a simple output of program
-Script: **overworld_to_nether.py**
+Just sample input+output!!
+> Script: **overworld_to_nether.py**
 ```
 Enter overworld X:1000
 Enter overworld Z:1000
